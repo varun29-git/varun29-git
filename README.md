@@ -34,11 +34,6 @@ Current focus on **quantum search algorithms**.
 • Studying **transformers, sparse computation, and scaling behavior**  
 • Exploring the **mathematical foundations of learning systems**
 
----
-
-## Tools
-
-`Python` • `PyTorch` • `Linear Algebra` • `Optimization`
 
 ---
 
