@@ -2,7 +2,9 @@
 <img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/48dc175e-8a71-436f-bc9c-9e862748a464" />
 
 
-Computer Science and Physics undergrad working at the intersection of AI architectures and control systems.
+
+
+I am a Computer Science and Physics undergrad working at the intersection of AI architectures and quantum.
 
 *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
 
@@ -27,4 +29,4 @@ Building neural systems from scratch to understand them properly. Right now that
 - **Substack**: [varundaiya.substack.com](https://varundaiya.substack.com)
 - **Email**: Available in profile
 
-Working with limited compute teaches you to build intelligently. The projects above reflect that—small vocab sizes, streaming datasets, T4-optimized profiles. Constraint as craft.
+Working with limited compute teaches you to build intelligently. The projects above reflect that, small vocab sizes, streaming datasets, T4-optimized profiles. Constraint as craft.
