@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Physics student trying to understand how things work.
 
-I'm interested in questions about intelligence, computation, and the nature of reality. I explore these through computer science, physics, and quantum computing.
+I'm interested in questions about intelligence, computation, and the nature of reality. I explore these through computer science, physics, and philosophy.
 
 I try to understand how things work beneath the abstractions we usually use.
 
